@@ -5,7 +5,7 @@
   Keep the column names from data/sample_family.csv.
 */
 
-const SHEET_CSV_URL = ""; // Example: "https://docs.google.com/spreadsheets/d/e/.../pub?gid=0&single=true&output=csv";
+const SHEET_CSV_URL = "https://docs.google.com/spreadsheets/d/1nihRg-i-8u1IDucOoSxz1mPhxQ6d0hCh1GswKjYyW3c/edit?usp=sharing/pub?gid=0&single=true&output=csv"; 
 
 const samplePeople = [
   {
