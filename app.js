@@ -359,6 +359,7 @@ function openPerson(id) {
         ${infoItem("Conversation starter", person.conversation_starter)}
         ${infoItem("Fun fact", person.fun_fact)}
         ${infoItem("Hometown", person.hometown)}
+		${infoItem("Alma Mater", person.college)}
         ${infoItem("Pronouns", person.pronouns)}
         ${infoItem("Notes", person.notes)}
       </dl>
